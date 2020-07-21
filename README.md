@@ -99,6 +99,11 @@ python main.py --mode predict
 ```
 The prediction would be saved as "pred_results.json".
 
+## Draw loss and accuracy
+```
+python main.py --mode draw
+```
+
 # Performance
 | | 疾病和诊断 | 影像检查 | 实验室检验 | 手术 | 药物 | 解剖部位 | 综合
 ------------- | ------------- | ------------ | -------------| ------------ | ------------- | ------------ | -------------
